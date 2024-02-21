@@ -1,8 +1,8 @@
 import requests
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
-TOKEN = '6959294318:AAFU4SrQ8CkavRxHLkTWecQkDyVIAIrparY'
-API_KEY = 'ac6f69f3a6ebadeb9e39ac494eb38058'
+TOKEN = 'YOURTOKEN'
+API_KEY = 'YOURAPI'
 URL_WEATHER_API = 'https://api.openweathermap.org/data/2.5/weather'
 EMOJI_CODE = {200: '⛈',
               201: '⛈',
