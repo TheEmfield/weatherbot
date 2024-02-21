@@ -22,7 +22,7 @@
 3. Запустить программу
 4. Profit
 
-## Автор
+## Автор - Шапков Гордей
 
-Telegram:
+Telegram: @CheckCurrentWeatherByBot
 
